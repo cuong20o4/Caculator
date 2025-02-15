@@ -1,0 +1,3 @@
+.vs
+Caculator/bin
+Caculator/obj
