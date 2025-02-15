@@ -21,5 +21,10 @@ namespace Caculator
         {
 
         }
+
+        private void btncong_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Phep cong");
+        }
     }
 }
